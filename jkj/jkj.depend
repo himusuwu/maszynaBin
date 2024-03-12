@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710235851 source:c:\users\uczen\desktop\jkj\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<string>
+	<sstream>
+
